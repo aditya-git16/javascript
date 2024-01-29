@@ -27,3 +27,5 @@ module.exports = isAnagram;
 console.log('spar'.split('').sort().join(''));
 console.log('spar'.sort()); // this will not work as sort is a method of array not string
 
+
+// Checking new email address for commits
